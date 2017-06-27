@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<database>
+  <user oid="12" email="foo@foobar.com" password="foobar" firstname="John" lastname="Doe"/>    
+  
+  <product oid="110" name="Value Cover" image="multimedia/valvecover.gif" price="85.00" description="Covers the whole thing"/>
+  <product oid="111" name="Water Pump" image="multimedia/waterpump.gif" price="95.00" description="A Nice Pump"/>
+  <product oid="112" name="Carburetor" image="multimedia/carb.gif" price="105.00" description="Does something with Gas"/>
+  <product oid="113" name="Exhaust Pipes" image="multimedia/ex_pipes.gif" price="115.00" description="Can Smoke with it"/>
+  <product oid="114" name="Cam Shaft" image="multimedia/cam.gif" price="125.00" description="Some kind of shaft"/>
+  <product oid="115" name="Tire" image="multimedia/tire.jpg" price="45.00" description="You need four of these!"/>
+  <product oid="116" name="Muffler" image="multimedia/mufflers.gif" price="78.00" description="Muffles Things!"/>
+</database>
+
